@@ -5,4 +5,4 @@ def password(p):
     else: 
         return "Access Denied"
 
-
+print(password("puppydog1"))
